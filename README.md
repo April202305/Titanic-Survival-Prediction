@@ -46,7 +46,7 @@ Titanic-Survival-Prediction/
 
 1. Clone repository:
    ```bash
-   git clone https://github.com/yourusername/titanic-survival-prediction.git
+   git clone https://github.com/April202305/Titanic-Survival-Prediction.git
    ```
 2. Install dependencies:
    ```bash
