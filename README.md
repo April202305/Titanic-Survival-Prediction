@@ -3,7 +3,7 @@
 
 This project contains a structured workflow for predicting Titanic passenger survival using machine learning models, along with comprehensive data analysis and result visualization components.
 
-## 📂 Project Structure
+## Project Structure
 
 ```bash
 Titanic-Survival-Prediction/
