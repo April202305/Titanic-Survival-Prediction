@@ -42,6 +42,13 @@ Titanic-Survival-Prediction/
   - Feature importance visualization
   - Model accuracy metrics
 
+## Data Source
+The dataset used in this project is the Titanic dataset from Kaggle Titanic: Machine Learning from Disaster competition. It contains data about the passengers aboard the RMS Titanic, including attributes such as age, gender, class, and whether they survived or not.
+
+### Dataset details:
+
+Source: Kaggle Titanic: Machine Learning from Disaster(https://www.kaggle.com/c/titanic/data)
+
 ## Installation
 
 1. Clone repository:
